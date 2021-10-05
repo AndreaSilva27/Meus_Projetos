@@ -1,0 +1,13 @@
+C:\VB.NET\ExComboio\bin\Debug\ExComboio.exe.config
+C:\VB.NET\ExComboio\bin\Debug\ExComboio.exe
+C:\VB.NET\ExComboio\bin\Debug\ExComboio.pdb
+C:\VB.NET\ExComboio\bin\Debug\ExComboio.xml
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.vbprojAssemblyReference.cache
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.Form1.resources
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.Form2.resources
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.Resources.resources
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.vbproj.GenerateResource.cache
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.vbproj.CoreCompileInputs.cache
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.exe
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.xml
+C:\VB.NET\ExComboio\obj\Debug\ExComboio.pdb

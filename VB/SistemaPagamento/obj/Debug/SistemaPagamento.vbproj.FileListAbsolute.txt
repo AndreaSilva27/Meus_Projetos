@@ -1,0 +1,13 @@
+C:\VB.NET\SistemaPagamento\bin\Debug\SistemaPagamento.exe.config
+C:\VB.NET\SistemaPagamento\bin\Debug\SistemaPagamento.exe
+C:\VB.NET\SistemaPagamento\bin\Debug\SistemaPagamento.pdb
+C:\VB.NET\SistemaPagamento\bin\Debug\SistemaPagamento.xml
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.vbprojAssemblyReference.cache
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.Form1.resources
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.Resources.resources
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.vbproj.GenerateResource.cache
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.vbproj.CoreCompileInputs.cache
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.exe
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.xml
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.pdb
+C:\VB.NET\SistemaPagamento\obj\Debug\SistemaPagamento.Form2.resources

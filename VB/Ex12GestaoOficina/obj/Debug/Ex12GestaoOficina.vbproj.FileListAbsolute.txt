@@ -1,0 +1,12 @@
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\bin\Debug\Ex12GestaoOficina.exe.config
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\bin\Debug\Ex12GestaoOficina.exe
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\bin\Debug\Ex12GestaoOficina.pdb
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\bin\Debug\Ex12GestaoOficina.xml
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\obj\Debug\Ex12GestaoOficina.vbprojAssemblyReference.cache
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\obj\Debug\Ex12GestaoOficina.Form1.resources
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\obj\Debug\Ex12GestaoOficina.Resources.resources
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\obj\Debug\Ex12GestaoOficina.vbproj.GenerateResource.cache
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\obj\Debug\Ex12GestaoOficina.vbproj.CoreCompileInputs.cache
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\obj\Debug\Ex12GestaoOficina.exe
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\obj\Debug\Ex12GestaoOficina.xml
+C:\Users\Andrea Silva\source\repos\Ex12GestaoOficina\obj\Debug\Ex12GestaoOficina.pdb

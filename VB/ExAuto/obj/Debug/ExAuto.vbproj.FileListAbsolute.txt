@@ -1,0 +1,12 @@
+C:\VB.NET\ExAuto\bin\Debug\ExAuto.exe.config
+C:\VB.NET\ExAuto\bin\Debug\ExAuto.exe
+C:\VB.NET\ExAuto\bin\Debug\ExAuto.pdb
+C:\VB.NET\ExAuto\bin\Debug\ExAuto.xml
+C:\VB.NET\ExAuto\obj\Debug\ExAuto.vbprojAssemblyReference.cache
+C:\VB.NET\ExAuto\obj\Debug\ExAuto.Form1.resources
+C:\VB.NET\ExAuto\obj\Debug\ExAuto.Resources.resources
+C:\VB.NET\ExAuto\obj\Debug\ExAuto.vbproj.GenerateResource.cache
+C:\VB.NET\ExAuto\obj\Debug\ExAuto.vbproj.CoreCompileInputs.cache
+C:\VB.NET\ExAuto\obj\Debug\ExAuto.exe
+C:\VB.NET\ExAuto\obj\Debug\ExAuto.xml
+C:\VB.NET\ExAuto\obj\Debug\ExAuto.pdb

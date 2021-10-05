@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjetoFinalBiblioteca
+</name>
+</assembly>
+<members>
+<member name="T:ProjetoFinalBiblioteca.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ProjetoFinalBiblioteca.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ProjetoFinalBiblioteca.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.AutorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet._Autor_LivroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.EditoraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.LivroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.AutorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet._Autor_LivroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.EditoraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.LivroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.AutorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet._Autor_LivroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.EditoraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSet.LivroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.AutorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.Autor_LivroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.EditoraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.LivroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ProjetoFinalBiblioteca._Livros__1_DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ProjetoFinalBiblioteca._Livros__1_DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ProjetoFinalBiblioteca._Livros__1_DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.TableAdapterManager.UpdateAll(ProjetoFinalBiblioteca._Livros__1_DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProjetoFinalBiblioteca._Livros__1_DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

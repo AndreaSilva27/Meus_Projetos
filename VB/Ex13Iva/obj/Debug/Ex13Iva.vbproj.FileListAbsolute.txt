@@ -1,0 +1,12 @@
+C:\Users\Andrea Silva\source\repos\Ex13Iva\bin\Debug\Ex13Iva.exe.config
+C:\Users\Andrea Silva\source\repos\Ex13Iva\bin\Debug\Ex13Iva.exe
+C:\Users\Andrea Silva\source\repos\Ex13Iva\bin\Debug\Ex13Iva.pdb
+C:\Users\Andrea Silva\source\repos\Ex13Iva\bin\Debug\Ex13Iva.xml
+C:\Users\Andrea Silva\source\repos\Ex13Iva\obj\Debug\Ex13Iva.vbprojAssemblyReference.cache
+C:\Users\Andrea Silva\source\repos\Ex13Iva\obj\Debug\Ex13Iva.Form1.resources
+C:\Users\Andrea Silva\source\repos\Ex13Iva\obj\Debug\Ex13Iva.Resources.resources
+C:\Users\Andrea Silva\source\repos\Ex13Iva\obj\Debug\Ex13Iva.vbproj.GenerateResource.cache
+C:\Users\Andrea Silva\source\repos\Ex13Iva\obj\Debug\Ex13Iva.vbproj.CoreCompileInputs.cache
+C:\Users\Andrea Silva\source\repos\Ex13Iva\obj\Debug\Ex13Iva.exe
+C:\Users\Andrea Silva\source\repos\Ex13Iva\obj\Debug\Ex13Iva.xml
+C:\Users\Andrea Silva\source\repos\Ex13Iva\obj\Debug\Ex13Iva.pdb

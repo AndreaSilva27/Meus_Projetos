@@ -1,0 +1,13 @@
+C:\VB.NET\Ex1AluguerCarros\bin\Debug\Ex1AluguerCarros.exe.config
+C:\VB.NET\Ex1AluguerCarros\bin\Debug\Ex1AluguerCarros.exe
+C:\VB.NET\Ex1AluguerCarros\bin\Debug\Ex1AluguerCarros.pdb
+C:\VB.NET\Ex1AluguerCarros\bin\Debug\Ex1AluguerCarros.xml
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.vbprojAssemblyReference.cache
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.Form1.resources
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.Resources.resources
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.vbproj.GenerateResource.cache
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.exe
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.xml
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.pdb
+C:\VB.NET\Ex1AluguerCarros\obj\Debug\Ex1AluguerCarros.Form2.resources

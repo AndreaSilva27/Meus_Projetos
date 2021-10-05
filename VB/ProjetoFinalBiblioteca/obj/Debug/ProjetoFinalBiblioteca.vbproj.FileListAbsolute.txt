@@ -1,0 +1,13 @@
+C:\VB.NET\ProjetoFinalBiblioteca\bin\Debug\ProjetoFinalBiblioteca.exe.config
+C:\VB.NET\ProjetoFinalBiblioteca\bin\Debug\ProjetoFinalBiblioteca.exe
+C:\VB.NET\ProjetoFinalBiblioteca\bin\Debug\ProjetoFinalBiblioteca.pdb
+C:\VB.NET\ProjetoFinalBiblioteca\bin\Debug\ProjetoFinalBiblioteca.xml
+C:\VB.NET\ProjetoFinalBiblioteca\obj\Debug\ProjetoFinalBiblioteca.vbprojAssemblyReference.cache
+C:\VB.NET\ProjetoFinalBiblioteca\obj\Debug\ProjetoFinalBiblioteca.Resources.resources
+C:\VB.NET\ProjetoFinalBiblioteca\obj\Debug\ProjetoFinalBiblioteca.vbproj.GenerateResource.cache
+C:\VB.NET\ProjetoFinalBiblioteca\obj\Debug\ProjetoFinalBiblioteca.vbproj.CoreCompileInputs.cache
+C:\VB.NET\ProjetoFinalBiblioteca\obj\Debug\ProjetoFinalBiblioteca.exe
+C:\VB.NET\ProjetoFinalBiblioteca\obj\Debug\ProjetoFinalBiblioteca.xml
+C:\VB.NET\ProjetoFinalBiblioteca\obj\Debug\ProjetoFinalBiblioteca.pdb
+C:\VB.NET\ProjetoFinalBiblioteca\bin\Debug\Livros (1).mdb
+C:\VB.NET\ProjetoFinalBiblioteca\obj\Debug\ProjetoFinalBiblioteca.Biblioteca.resources

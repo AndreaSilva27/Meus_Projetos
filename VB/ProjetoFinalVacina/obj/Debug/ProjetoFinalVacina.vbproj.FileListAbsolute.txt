@@ -1,0 +1,12 @@
+C:\VB.NET\ProjetoFinalVacina\bin\Debug\ProjetoFinalVacina.exe.config
+C:\VB.NET\ProjetoFinalVacina\bin\Debug\ProjetoFinalVacina.exe
+C:\VB.NET\ProjetoFinalVacina\bin\Debug\ProjetoFinalVacina.pdb
+C:\VB.NET\ProjetoFinalVacina\bin\Debug\ProjetoFinalVacina.xml
+C:\VB.NET\ProjetoFinalVacina\obj\Debug\ProjetoFinalVacina.vbprojAssemblyReference.cache
+C:\VB.NET\ProjetoFinalVacina\obj\Debug\ProjetoFinalVacina.Form1.resources
+C:\VB.NET\ProjetoFinalVacina\obj\Debug\ProjetoFinalVacina.Resources.resources
+C:\VB.NET\ProjetoFinalVacina\obj\Debug\ProjetoFinalVacina.vbproj.GenerateResource.cache
+C:\VB.NET\ProjetoFinalVacina\obj\Debug\ProjetoFinalVacina.vbproj.CoreCompileInputs.cache
+C:\VB.NET\ProjetoFinalVacina\obj\Debug\ProjetoFinalVacina.exe
+C:\VB.NET\ProjetoFinalVacina\obj\Debug\ProjetoFinalVacina.xml
+C:\VB.NET\ProjetoFinalVacina\obj\Debug\ProjetoFinalVacina.pdb

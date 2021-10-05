@@ -1,0 +1,11 @@
+C:\Ex8ComboLinguagens\bin\Debug\Ex8ComboLinguagens.exe.config
+C:\Ex8ComboLinguagens\bin\Debug\Ex8ComboLinguagens.exe
+C:\Ex8ComboLinguagens\bin\Debug\Ex8ComboLinguagens.pdb
+C:\Ex8ComboLinguagens\bin\Debug\Ex8ComboLinguagens.xml
+C:\Ex8ComboLinguagens\obj\Debug\Ex8ComboLinguagens.Form1.resources
+C:\Ex8ComboLinguagens\obj\Debug\Ex8ComboLinguagens.Resources.resources
+C:\Ex8ComboLinguagens\obj\Debug\Ex8ComboLinguagens.vbproj.GenerateResource.cache
+C:\Ex8ComboLinguagens\obj\Debug\Ex8ComboLinguagens.vbproj.CoreCompileInputs.cache
+C:\Ex8ComboLinguagens\obj\Debug\Ex8ComboLinguagens.exe
+C:\Ex8ComboLinguagens\obj\Debug\Ex8ComboLinguagens.xml
+C:\Ex8ComboLinguagens\obj\Debug\Ex8ComboLinguagens.pdb
