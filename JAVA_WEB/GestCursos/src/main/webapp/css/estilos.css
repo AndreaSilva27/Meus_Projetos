@@ -1,0 +1,102 @@
+@charset "utf-8";
+body{
+	background-color:aliceblue; 
+	color:darkblue;
+	overflow:scroll;
+	
+}
+
+#listarTabelas{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#listarTabelas td, #listarTabelas th{
+    border: 1px solid #ddd;
+    padding: 5px;
+    text-align:center;	
+}
+
+#listarTabelas th{
+	background-color:steelblue;
+	color:darkblue;
+}
+
+#listarTabelas tr:hover{
+	background-color:lightsteelblue;
+}
+
+img{
+	width:100%;
+	}
+	
+.button1{
+	background-color:steelblue;
+	color:linen;
+	padding:8px 12px;
+	border-radius:12px;
+	font-size:15px;
+}
+.button1:hover {
+	background-color:dodgerblue;
+	color:linen;
+}
+
+.button2{
+	background-color:firebrick;
+	color:linen;
+	padding:10px 12px;
+	border-radius:12px;
+	font-size:15px;
+}
+.button2:hover {
+	background-color:tomato;
+	color:linen;
+}
+
+.buttonEli{                      
+	background-color:firebrick;
+	color:white;
+	width:100px;
+	padding:5px;
+}
+.buttonEli:hover{
+	background-color:white;
+	color:firebrick;
+}
+.buttonAlt{                      
+	background-color:steelblue;
+	color:white;
+	width:100px;
+	padding:5px;
+}
+.buttonAlt:hover{
+	background-color:white;
+	color:dodgerblue;
+}
+.rodape{
+    background-color:steelblue;
+	color:whitesmoke;
+	text-align:center;
+	padding:5px;
+	font-family:Georgia,Helvetica,Verdana;
+	font-size:20px;
+	margin:0px;
+	border:3px solid whitesmoke;
+ }
+ 
+ .foto{
+     width:50px;
+     height:50px;
+ }
+ .foto:hover{
+ 	transform:scale(1.5);
+ }
+
+.botao{
+	background-color:darkblue;
+	color:white;
+	border:2px solid white;
+	padding:5px;
+} 
+ 

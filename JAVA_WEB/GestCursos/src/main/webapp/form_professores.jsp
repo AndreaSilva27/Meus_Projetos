@@ -1,16 +1,15 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <%@page import="ligarBD.*" %>
-<%@page import="java.sql.*" %>       
+<%@page import="java.sql.*" %>        
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Gestão de Alunos</title>
+<title>Registo de Professores</title>
 <link rel="stylesheet" href="css/boostrap.min.css">
 <link rel="stylesheet" href="css/estilos.css">
 <link rel="icon" href="icons/curso1.png">
-
 <style>
 body{
 	background-image:url("imagens/bloc.png");
@@ -46,13 +45,16 @@ body{
 
 </head>
 <body>
-      <div class="container" style="background-color:linen">
-            <h2>Registo de Alunos</h2>
-            <form method="POST" action="form_alunos.jsp">
+
+<%@include file="menu.jsp"%> 
+<br><br><br><br><br>   
+     <div class="container" style="background-color:whitesmoke">
+            <h2>Registo de Professores</h2>
+            <form method="POST" action="professores.jsp">
             
                 <div class="form-group">
-                    <label>Nome do Aluno:</label>
-                    <input type="text" class="form-control" placeholder="insira o nome do aluno" name="nome" required>
+                    <label>Nome do Professor:</label>
+                    <input type="text" class="form-control" placeholder="insira o nome do professor" name="nome" required>
                 </div>
                 <br>
                 <div class="form-group">
@@ -60,19 +62,12 @@ body{
                     <input type="date" class="form-control" name="data" required>
                 </div>
                 <br>
-                <div class="form-group">
-                    <label>Código Postal:</label>
-                    <input type="text" class="form-control" placeholder="insira o código postal" name="postal" required>
-                </div>
-                <br>
-                <div class="form-group">
-                    <label>Foto:</label>
-                    <input type="file" accept="image/*" class="form-control" name="foto" required>
-                </div>
-                <br>
+                
+                
                 <br>
                 <input type="submit" class="button1" value="Registar">&nbsp;&nbsp;&nbsp;
-                <input type="reset" class="button2" value="Cancelar">
+                <input type="reset" class="button2" value="Cancelar">&nbsp;&nbsp;&nbsp;
+                <button class="button1" onclick="document.location='menu.jsp'">Voltar ao Menu</button>
                 <br><br>
                 
                 <div id="aviso"></div>
@@ -80,7 +75,7 @@ body{
             
             </form>
             </div>
-<%
+                       <%
     
         // codigo da base de dados
      
@@ -88,10 +83,8 @@ body{
      Statement st=cn.createStatement();
      String fnome=request.getParameter("nome");
      String fdata=request.getParameter("data");
-     String fpostal=request.getParameter("postal");
-     String ffoto=request.getParameter("foto");
      
-     if(fnome==null || fdata==null  ||fpostal==null ||ffoto==null   ){
+     if(fnome==null || fdata==null  ){
     	 
      
      %>
@@ -102,11 +95,11 @@ body{
      }
      else{
      try{
-     st.executeUpdate("insert into alunos(Nome,Data_Nascimento,Codigo_Postal,Foto) values ('"+fnome+"','"+fdata+"','"+fpostal+"' ,'"+ffoto+"' )");
+     st.executeUpdate("insert into professores(Nome,Data_Admissao) values ('"+fnome+"','"+fdata+"')");
      %>
      <script>
      document.getElementById('aviso').style.visibility='visible';
-     document.getElementById('aviso').innerHTML="<br><br><h2 style='color:green'>Aluno Registado!</h2>";
+     document.getElementById('aviso').innerHTML="<br><br><h2 style='color:green'>Professor Registado!</h2>";
      
      </script>
      <%
@@ -115,13 +108,13 @@ body{
      %>
      <script>
      document.getElementById('aviso').style.visibility='visible';
-     document.getElementById('aviso').innerHTML="<br><br><h2 style='color:firebrick'>Erro ao registar aluno!</h2>";
+     document.getElementById('aviso').innerHTML="<br><br><h2 style='color:firebrick'>Erro ao registar professor!</h2>";
      
      </script>
      <%
      }
      }
      %>
-     
-     </body>
+            
+</body>
 </html>

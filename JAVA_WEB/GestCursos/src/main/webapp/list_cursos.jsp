@@ -13,6 +13,7 @@
 <link rel="icon" href="icons/curso1.png">
 </head>
 <body>
+<%@include file="menu.jsp"%>
      <h1>Listagem de Cursos</h1>
      <hr>
      <table id="listarTabelas">
@@ -20,7 +21,8 @@
              <th>Código do Curso</th>
              <th>Nome do Curso</th>
              <th>Preço do Curso</th>
-             
+             <th>Eliminar</th>
+             <th>Alterar</th>
          </tr>
          
          <%
@@ -33,10 +35,15 @@
             	out.println("<td>" + rs.getString(1)+ "</td>");
             	out.println("<td>" + rs.getString(2)+ "</td>");
             	out.println("<td>" + rs.getString(3)+ "</td>");
-            	out.println("</tr>");
+            	out.println("<td><a href='apagar_cursos.jsp?eliminar="+ rs.getString(1)+ "'><input type='button' class='buttonEli' value='Eliminar'></a></td>");
+            	out.println("<td><a href='alterar_cursos.jsp?alterar="+ rs.getString(1)+ "'><input type='button' class='buttonAlt' value='Alterar'></a></td>");
+             	out.println("</tr>");
             	
             }
          %>
      </table>
+     <br>
+     <button class="button1" onclick="document.location='menu.jsp'">Voltar ao Menu</button>
+     
 </body>
 </html>

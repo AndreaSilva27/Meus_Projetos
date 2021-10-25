@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Registo de Código Postal</title>
+<title>Registo de Utilizador</title>
 <link rel="stylesheet" href="css/boostrap.min.css">
 <link rel="stylesheet" href="css/estilos.css">
 <link rel="icon" href="icons/curso1.png">
@@ -46,27 +46,29 @@ body{
 
 </head>
 <body>
-         <div class="container" style="background-color:linen">
-            <h2>Registo de Código Postal</h2>
-            <form method="POST" action="form_postal.jsp">
+
+
+
+         <div class="container" style="background-color:mintcream">
+            <h2>Novo Utilizador</h2>
+            <form method="POST" action="criar.jsp">
             
                 <div class="form-group">
-                    <label>Código Postal:</label>
-                    <input type="text" class="form-control" placeholder="insira o código postal" name="postal" required>
+                    <label>Nome:</label>
+                    <input type="text" class="form-control" placeholder="insira o nome" name="nome" required>
                 </div>
                 <br>
                 <div class="form-group">
-                    <label>Local:</label>
-                    <input type="text" class="form-control" name="local" placeholder="insira o local" required>
+                    <label>Password:</label>
+                    <input type="text" class="form-control" name="pass" placeholder="insira a password" required>
                 </div>
                 <br>
-                <br>
-                <input type="submit" class="button1" value="Registar">&nbsp;&nbsp;&nbsp;
-                <input type="reset" class="button2" value="Cancelar">
-                <br><br>
                 
-                <div id="aviso"></div>
-            
+                    
+                <input type="submit" class="button1" value="Registar">&nbsp;&nbsp;&nbsp;
+                <input type="reset" class="button2" value="Cancelar">&nbsp;&nbsp;&nbsp;
+                
+                <br><br>
             
             </form>
             </div>
@@ -77,10 +79,12 @@ body{
      
      Connection cn=ligacaoMySql.criarLigacaoMySql();
      Statement st=cn.createStatement();
-     String fpostal=request.getParameter("postal");
-     String flocal=request.getParameter("local");
      
-     if(fpostal==null || flocal==null  ){
+     String wuser=request.getParameter("nome");
+     String wpass=request.getParameter("pass");
+  
+     
+     if(wuser==null || wpass==null  ){
     	 
      
      %>
@@ -91,7 +95,7 @@ body{
      }
      else{
      try{
-     st.executeUpdate("insert into codigos_postais(Codigo_Postal,Local) values ('"+fpostal+"','"+flocal+"' )");
+     st.executeUpdate("insert into utilizadores(nome,password) values ('"+wuser+"','"+wpass+"')");
      %>
      <script>
      document.getElementById('aviso').style.visibility='visible';
@@ -112,6 +116,8 @@ body{
      }
      %>
      
+     <br><br><br><br>
+     <button class="button1" onclick="document.location='menu.jsp'">Ir ao Menu</button>
             
 </body>
 </html>

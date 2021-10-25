@@ -45,7 +45,9 @@ body{
 </style>
 </head>
 <body>
-       <div class="container" style="background-color:linen">
+<%@include file="menu.jsp"%>
+<br><br><br><br><br>
+       <div class="container" style="background-color:whitesmoke">
             <h2>Novo Curso</h2>
             <form method="POST" action="form_cursos.jsp">
             
@@ -60,14 +62,19 @@ body{
                 </div>
                 <br>
                 <input type="submit" class="button1" value="Registar">&nbsp;&nbsp;&nbsp;
-                <input type="reset" class="button2" value="Cancelar">
+                <input type="reset" class="button2" value="Cancelar">&nbsp;&nbsp;&nbsp;
+                <button class="button1" onclick="document.location='menu.jsp'">Voltar ao Menu</button>
                 <br><br>
                 
                 <div id="aviso"></div>
             
+                
+                  
             
             </form>
             </div>
+            <br><br>
+            
             
         <%
 		// dados do form
