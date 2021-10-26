@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+body{
+	
+	margin: 0px;
+	background-image: url('../imagens/fundo.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+input[type=submit],input[type=reset]{
+   background-color: red;
+   color: white;
+   font-size: 12px;
+   padding: 10px;
+   border: none;			
+}
+input[type=submit]:hover,input[type=reset]:hover{
+   background-color: #ddd;
+   color: white;	
+}
